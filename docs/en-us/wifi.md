@@ -6,7 +6,7 @@
 
 - components/network/wifi_manager/bl60x_wifi_driver/include/wifi_mgmr_ext.h
 
-### Functions[¶](https://wb2-api-web.readthedocs.io/en/latest/docs/api-guides/WiFi/index.html#functions)
+### Functions
 
 ```c
 int wifi_mgmr_psk_cal(char *password, char *ssid, int ssid_len, char *output)

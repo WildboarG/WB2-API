@@ -5,13 +5,13 @@
     height: auto;  /* 保持比例 */
   }
 </style>
-# docsify <small>3.5</small>
+# AI-WB2入坑指南 <small>latest</small>
 
-> A magical documentation site generator.
+> API指南来自于安信可科技.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 大自然的搬运工
+-   嗯，优雅！
 
-[GitHub](https://github.com/WildboarG)
+
+[GitHub](https://github.com/WildboarG/WB2-API)
 [Get Started](/en-us/README.md)

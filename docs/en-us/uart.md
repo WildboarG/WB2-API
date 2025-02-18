@@ -10,11 +10,11 @@
 
 ### API参考
 
-#### Header File[¶](https://wb2-api-web.readthedocs.io/en/latest/docs/api-guides/peripherals/UART.html#header-file)
+#### Header File
 
 - components/platform/hosal/include/hosal_uart.h
 
-#### Functions[¶](https://wb2-api-web.readthedocs.io/en/latest/docs/api-guides/peripherals/UART.html#functions)
+#### Functions
 
 ```c
 int hosal_uart_abr_get(hosal_uart_dev_t *uart, uint8_t mode)
